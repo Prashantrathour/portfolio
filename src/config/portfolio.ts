@@ -29,7 +29,7 @@ export const portfolioConfig = {
       description: "A comprehensive full-stack car-sharing platform with JWT authentication, role-based (admin, driver, passenger) access control, real-time chat, trip management and otp based verification.",
       image: "/doc-uploads/carsharedemo.png",
       techStack: ["React", "Redux Toolkit", "Node.js", "Express", "PostgreSQL", "Socket.io", "tailwindcss", "JWT", "Firebase"],
-      githubUrl: "https://github.com/Prashant-Greenmentor/car-share-frontend",
+      githubUrl: "https://github.com/Prashantrathour/car-share-application",
       demoUrl: "https://car-sharing-dev.netlify.app",
       featured: true,
       date: "APR 2025"
