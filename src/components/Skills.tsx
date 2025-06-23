@@ -64,7 +64,7 @@ const Skills = () => {
       title: "Assessment Assistantship Program",
       issuer: "Masai School",
       description: "Participated as a mentor in the Assessment Assistantship Program, conducting technical interviews with students as part of their practice sessions.",
-      image: "/doc-uploads/aa-program.png",
+      image: "https://ik.imagekit.io/ntmgxa7c6/progressio/PRASHANT%20RATHOUR.jpg?updatedAt=1750680404650",
       date: "Apr 2024"
     },
     {
