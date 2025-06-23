@@ -60,6 +60,12 @@ const Skills = () => {
       description: "Comprehensive full-stack web development program with 2160 hours of practical learning",
       image: "/doc-uploads/89859735-946e-4b48-8fd8-5409ec7f4040.png",
       date: "Sep 2023"
+    },{
+      title: "Assessment Assistantship Program",
+      issuer: "Masai School",
+      description: "Participated as a mentor in the Assessment Assistantship Program, conducting technical interviews with students as part of their practice sessions.",
+      image: "/doc-uploads/aa-program.png",
+      date: "Apr 2024"
     },
     {
       title: "Certified Prompt Engineer",
