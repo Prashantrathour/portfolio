@@ -99,7 +99,7 @@ const About = () => {
                 <p className="text-lg leading-relaxed text-foreground/90 mb-6">
                   Hi, I'm <span className="text-primary font-semibold neon-text">{portfolioConfig.personal.name}</span>, a highly skilled Full Stack Developer 
                   with 1+ years of experience in developing sustainable web applications using modern frontend and backend technologies. 
-                  Currently working at Green Mentor, Bengaluru, where I design and develop scalable web solutions.
+                  Currently working at Green Mentor, Mumbai, where I design and develop scalable web solutions.
                 </p>
                 
                 <p className="text-lg leading-relaxed text-foreground/80 mb-6">
