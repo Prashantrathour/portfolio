@@ -24,6 +24,16 @@ export const portfolioConfig = {
 
   // Projects Configuration
   projects: [
+     {
+      title: "Mood Spice",
+      description: "So I created an app that suggests Indian recipes based on your mood. Select your mood: Happy, Comfort, Romantic, Adventurous, Calm, etc.Get a delicious Indian recipe to match it Don’t like it? Just hit Shuffle for more! Each recipe includes full instructions, prep/cook time, and ingredients And while your food is getting ready... you can even play a memory game inside the app 🎮",
+      image: "https://res.cloudinary.com/djpuwf2xv/image/upload/v1752041894/1752041742442285_r4_311912384290887552_ouuvbz.png",
+      techStack: ["React", "Redux Toolkit", "Node.js", "Express", "SQLite", "tailwindcss", "JWT"],
+      githubUrl: "https://github.com/Prashant-Greenmentor/recipe-app",
+      demoUrl: "https://moodspecs.netlify.app/",
+      featured: true,
+      date: "MAY 2025"
+    },
     {
       title: "Car Sharing Platform",
       description: "A comprehensive full-stack car-sharing platform with JWT authentication, role-based (admin, driver, passenger) access control, real-time chat, trip management and otp based verification.",
